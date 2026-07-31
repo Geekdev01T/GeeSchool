@@ -1,3 +1,9 @@
+# 🎓 GeeSchool — Système de Gestion Scolaire
+
+GeeSchool est une plateforme web moderne de gestion d'établissement scolaire. Elle permet de gérer les utilisateurs (administrateurs, enseignants, élèves, parents), la structure des classes, les matières, ainsi que la saisie et le suivi des évaluations et des notes.
+
+---
+
 # Gestion des Notes — École Primaire
 
 Application de gestion des notes destinée à une école primaire : saisie des notes par les enseignants, calcul automatique des moyennes et rangs, génération des bulletins, et gestion administrative des élèves. Conçue pour un déploiement **local**, sur le réseau interne de l'établissement (pas d'hébergement en ligne requis).
